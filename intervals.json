@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T23:21:10.617300",
+  "generated_at": "2026-06-24T01:24:41.806265",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -25,6 +25,29 @@
           "avg_hr": 119,
           "max_hr": 177,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i159804860",
+      "date": "2026-06-24",
+      "type": "VirtualRun",
+      "name": "Morning Virtual Run",
+      "interval_summary": [
+        "1x 16m7s 163bpm"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1
+        },
+        {
+          "type": "WORK",
+          "label": "967s@163bpm",
+          "duration_secs": 967,
+          "avg_hr": 163,
+          "max_hr": 189,
+          "zone": 3
         }
       ]
     }
