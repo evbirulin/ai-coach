@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T23:59:20.811373",
+  "generated_at": "2026-06-28T04:44:00.712470",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -71,6 +71,71 @@
           "avg_hr": 166,
           "max_hr": 192,
           "zone": 6
+        }
+      ]
+    },
+    {
+      "activity_id": "i160836365",
+      "date": "2026-06-28",
+      "type": "VirtualRide",
+      "name": "Morning Virtual Ride",
+      "interval_summary": [
+        "1x 1h8m 143bpm"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1
+        },
+        {
+          "type": "WORK",
+          "label": "4087s@143bpm",
+          "duration_secs": 4087,
+          "avg_hr": 143,
+          "max_hr": 164,
+          "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i160830532",
+      "date": "2026-06-28",
+      "type": "VirtualRide",
+      "name": "Morning Virtual Ride",
+      "interval_summary": [
+        "1x 5m6s 120bpm"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1
+        },
+        {
+          "type": "WORK",
+          "label": "306s@120bpm",
+          "duration_secs": 306,
+          "avg_hr": 120,
+          "max_hr": 140,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i160817763",
+      "date": "2026-06-28",
+      "type": "Ride",
+      "name": "Morning Ride",
+      "interval_summary": [
+        "1x 11m42s 116bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "702s@116bpm",
+          "duration_secs": 702,
+          "avg_hr": 116,
+          "max_hr": 156,
+          "zone": 1
         }
       ]
     }
