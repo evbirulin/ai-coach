@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T06:01:00.301003",
+  "generated_at": "2026-07-04T08:49:47.398580",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -205,6 +205,48 @@
           "avg_hr": 139,
           "max_hr": 191,
           "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i162555312",
+      "date": "2026-07-04",
+      "type": "Swim",
+      "name": "Afternoon Workout",
+      "interval_summary": [
+        "1x 1h41m 131bpm"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2
+        },
+        {
+          "type": "WORK",
+          "label": "6100s@131bpm",
+          "duration_secs": 6100,
+          "avg_hr": 131,
+          "max_hr": 199,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i162518860",
+      "date": "2026-07-04",
+      "type": "Swim",
+      "name": "Morning Workout",
+      "interval_summary": [
+        "1x 34m8s 131bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "2048s@131bpm",
+          "duration_secs": 2048,
+          "avg_hr": 131,
+          "max_hr": 160,
+          "zone": 1
         }
       ]
     }
