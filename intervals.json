@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T01:07:25.491916",
+  "generated_at": "2026-07-11T04:27:04.540441",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -368,6 +368,48 @@
           "zone": 2,
           "training_load": 8.313457,
           "decoupling": -10.707165
+        }
+      ]
+    },
+    {
+      "activity_id": "i164616551",
+      "date": "2026-07-11",
+      "type": "Run",
+      "name": "Brick Run",
+      "interval_summary": [
+        "1x 25m35s 148bpm"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 19
+        },
+        {
+          "type": "WORK",
+          "label": "1535s@148bpm",
+          "duration_secs": 1535,
+          "avg_hr": 148,
+          "max_hr": 167,
+          "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i164613479",
+      "date": "2026-07-11",
+      "type": "Ride",
+      "name": "Cycling",
+      "interval_summary": [
+        "1x 1h58m 159bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "7129s@159bpm",
+          "duration_secs": 7129,
+          "avg_hr": 159,
+          "max_hr": 196,
+          "zone": 3
         }
       ]
     }
