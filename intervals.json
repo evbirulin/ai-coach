@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T04:23:53.228535",
+  "generated_at": "2026-07-17T06:36:41.219081",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -774,6 +774,27 @@
           "avg_cadence": 83.0,
           "zone": 7,
           "training_load": 0.14740115
+        }
+      ]
+    },
+    {
+      "activity_id": "i166500451",
+      "date": "2026-07-17",
+      "type": "VirtualRide",
+      "name": "CYC | 57m | 3x[6m @ Z2 (95-105rpm) / r=3m Z1]",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 4032,
+          "avg_power": 78,
+          "max_power": 134,
+          "avg_hr": 147,
+          "max_hr": 166,
+          "avg_cadence": 87.4705,
+          "zone": 2,
+          "training_load": 40.713364,
+          "decoupling": 0.12216901
         }
       ]
     }
