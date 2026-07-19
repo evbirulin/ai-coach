@@ -1,75 +1,10 @@
 {
-  "generated_at": "2026-07-18T23:35:44.064924",
+  "generated_at": "2026-07-19T01:10:13.343002",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i162536186",
-      "date": "2026-07-04",
-      "type": "Ride",
-      "name": "Lunch Ride",
-      "interval_summary": [
-        "1x 1h24m 139bpm"
-      ],
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 2
-        },
-        {
-          "type": "WORK",
-          "label": "5049s@139bpm",
-          "duration_secs": 5049,
-          "avg_hr": 139,
-          "max_hr": 191,
-          "zone": 2
-        }
-      ]
-    },
-    {
-      "activity_id": "i162555312",
-      "date": "2026-07-04",
-      "type": "Swim",
-      "name": "Afternoon Workout",
-      "interval_summary": [
-        "1x 1h41m 131bpm"
-      ],
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 2
-        },
-        {
-          "type": "WORK",
-          "label": "6100s@131bpm",
-          "duration_secs": 6100,
-          "avg_hr": 131,
-          "max_hr": 199,
-          "zone": 1
-        }
-      ]
-    },
-    {
-      "activity_id": "i162518860",
-      "date": "2026-07-04",
-      "type": "Swim",
-      "name": "Morning Workout",
-      "interval_summary": [
-        "1x 34m8s 131bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "2048s@131bpm",
-          "duration_secs": 2048,
-          "avg_hr": 131,
-          "max_hr": 160,
-          "zone": 1
-        }
-      ]
-    },
     {
       "activity_id": "i162786597",
       "date": "2026-07-05",
@@ -795,6 +730,25 @@
           "zone": 2,
           "training_load": 40.713364,
           "decoupling": 0.12216901
+        }
+      ]
+    },
+    {
+      "activity_id": "i167010259",
+      "date": "2026-07-19",
+      "type": "Ride",
+      "name": "Galston Gorge",
+      "interval_summary": [
+        "1x 2h54m 156bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "10452s@156bpm",
+          "duration_secs": 10452,
+          "avg_hr": 156,
+          "max_hr": 192,
+          "zone": 3
         }
       ]
     }
