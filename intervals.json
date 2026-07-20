@@ -1,33 +1,10 @@
 {
-  "generated_at": "2026-07-19T23:39:23.380877",
+  "generated_at": "2026-07-20T01:13:42.175357",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i162786597",
-      "date": "2026-07-05",
-      "type": "Ride",
-      "name": "Didn't fall at all this time",
-      "interval_summary": [
-        "1x 1h1m 132bpm"
-      ],
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1
-        },
-        {
-          "type": "WORK",
-          "label": "3696s@132bpm",
-          "duration_secs": 3696,
-          "avg_hr": 132,
-          "max_hr": 203,
-          "zone": 1
-        }
-      ]
-    },
     {
       "activity_id": "i163474109",
       "date": "2026-07-07",
