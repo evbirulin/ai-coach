@@ -1,33 +1,10 @@
 {
-  "generated_at": "2026-07-21T23:12:19.384029",
+  "generated_at": "2026-07-22T00:08:18.741869",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i163474109",
-      "date": "2026-07-07",
-      "type": "Run",
-      "name": "Knees were not having it\ud83d\ude2d",
-      "interval_summary": [
-        "1x 3m41s 118bpm"
-      ],
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 5
-        },
-        {
-          "type": "WORK",
-          "label": "221s@118bpm",
-          "duration_secs": 221,
-          "avg_hr": 118,
-          "max_hr": 149,
-          "zone": 1
-        }
-      ]
-    },
     {
       "activity_id": "i163716361",
       "date": "2026-07-08",
