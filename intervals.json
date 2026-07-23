@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T07:18:08.390386",
+  "generated_at": "2026-07-23T09:56:22.073221",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -801,6 +801,23 @@
           "zone": 1,
           "training_load": 6.888126,
           "decoupling": -10.942466
+        }
+      ]
+    },
+    {
+      "activity_id": "i168352989",
+      "date": "2026-07-23",
+      "type": "Swim",
+      "name": "Afternoon Swim",
+      "interval_summary": [
+        "1x 147m 10:29"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "928s@0.16mps",
+          "duration_secs": 928,
+          "zone": 1
         }
       ]
     }
