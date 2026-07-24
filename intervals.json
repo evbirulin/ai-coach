@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T23:38:11.810276",
+  "generated_at": "2026-07-24T01:08:29.686867",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -818,6 +818,27 @@
           "label": "928s@0.16mps",
           "duration_secs": 928,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i168594403",
+      "date": "2026-07-24",
+      "type": "VirtualRide",
+      "name": "MyWhoosh - CYC | 1h | Z2",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3609,
+          "avg_power": 79,
+          "max_power": 113,
+          "avg_hr": 146,
+          "max_hr": 156,
+          "avg_cadence": 76.70186,
+          "zone": 2,
+          "training_load": 35.73179,
+          "decoupling": 6.794244
         }
       ]
     }
